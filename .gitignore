@@ -1,0 +1,7 @@
+# Github
+*.git
+
+# Python
+*.pyc
+*.pyo
+*.pyd
